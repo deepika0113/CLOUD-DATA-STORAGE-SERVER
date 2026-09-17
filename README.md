@@ -1,6 +1,6 @@
 # EX-3(a) : CLOUD-DATA-STORAGE-SERVER
-## Name : Visveswarran Harikrishnan
-## Register Number : 212224110063
+## Name : DEEPIKA R
+## Register Number : 212224100009
 ## Aim
 
 To create a highly available MySQL database using **Amazon RDS**, configure secure connectivity between an EC2 web server and the RDS database, and interact with the database through a web application.
